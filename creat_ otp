@@ -1,0 +1,7 @@
+# Declare a digits variable  
+
+# which stores all digits 
+
+digits = "0123456789" 
+
+OTP = "" 
